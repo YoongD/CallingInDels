@@ -1,11 +1,11 @@
-#Calling InDels(genomic variant) using Tensorflow Project
+<h1>Calling InDels(genomic variant) using Tensorflow Project</h1>
 
 **InDels**:
 > Indel is a molecular biology term for an insertion or deletion of bases in the genome of an organism. It is classified among small genetic variations, measuring from 1 to 10 000 base pairs in length, including insertion and deletion events that may be separated by many years, and may not be related to each other in any way.
 > _(Wikipedia indel)_
 
 
-###Results
+<h4>Results</h4>
 
 methods | PPV | Sensitivity 
 ---|:---:|---:
