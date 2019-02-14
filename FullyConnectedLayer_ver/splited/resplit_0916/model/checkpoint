@@ -1,0 +1,2 @@
+model_checkpoint_path: "train-1800"
+all_model_checkpoint_paths: "train-1800"
